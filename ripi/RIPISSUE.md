@@ -1,3 +1,2 @@
 # RIPISSUE
 
-- [[initialprojectstructure-issue]]
